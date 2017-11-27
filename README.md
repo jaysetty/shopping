@@ -1,4 +1,4 @@
-# The objective of this excercise is 2 fold. 
+# The objective of this excercise is two fold. 
 
 1) Phase 1: Forecast Sales for a leading retailer across 3 categories - Women, Men and Other. (This is only using Time Series techniques)
 2) Phase 2: Using regression for the same retailer forecast women sales.
